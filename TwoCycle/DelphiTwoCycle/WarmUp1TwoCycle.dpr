@@ -1,4 +1,4 @@
-Program WarmUp1TwoCycle;
+Program WarmUp1TwoCycles;
 {
  There are 3 groups of monks: leading, simple and apprentice.
  Introduced how many monks and how many pies.

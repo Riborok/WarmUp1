@@ -1,7 +1,7 @@
 # WarmUp №1. Monks
 ---
 ### Task:
-![The task](https://i.imgur.com/z0Xof7w.png)
+![The task](https://i.imgur.com/WCvOI2s.png)
 
 >The program calculates the combination of groups of monks in order for all the pies to be eaten.
 
