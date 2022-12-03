@@ -111,7 +111,7 @@ Begin
   Readln;
 End.
 ```
-### Code using two cycle:
+### Code using two cycles:
 ``` pascal
 Program WarmUp1TwoCycle;
 {
